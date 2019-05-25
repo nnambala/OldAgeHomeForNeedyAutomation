@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name=" " parallel="false">
+	<test name="">
+        <!-- <parameter name="browser" value="firefox" parallel="false"/> -->
+        <classes>
+            <class name="">
+	            <methods>
+	                <include name="RecurringDonationsTest.java"/>
+	            </methods>
+            </class>
+        </classes>
+    </test>
+
+</suite>
